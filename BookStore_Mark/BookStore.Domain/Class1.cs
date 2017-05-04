@@ -8,6 +8,7 @@ namespace BookStore.Domain
 {
     public class Class1
     {
+        //Hello World
         //hello
     }
 }
